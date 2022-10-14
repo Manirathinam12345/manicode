@@ -1,0 +1,2 @@
+# manicode
+Beginning of code
